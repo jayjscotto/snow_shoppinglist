@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="New Button (Shopping Item)">89eb981c2f1010106e87837cf699b689</button>
+        <item_parameter display_value="Shopping Item store">09eb981c2f1010106e87837cf699b687</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-04-16 14:05:39</sys_created_on>
+        <sys_id>81eb981c2f1010106e87837cf699b692</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>09eb981c2f1010106e87837cf699b687</sys_name>
+        <sys_package display_value="Shopping List" source="x_473516_shopping">87d990d82f1010106e87837cf699b638</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shopping List">87d990d82f1010106e87837cf699b638</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_81eb981c2f1010106e87837cf699b692</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-04-16 14:05:39</sys_updated_on>
+        <ui_parameter display_value="Store">01eb981c2f1010106e87837cf699b68e</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>
